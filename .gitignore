@@ -1,0 +1,9 @@
+loss_imgs/*
+result_tf_t4/*
+rgb_test_features_tf/*
+rgb_train_features_tf/*
+models/*
+vgg16.tfmodel
+S2VT_results.txt
+*.pyc
+coco_eval/*
